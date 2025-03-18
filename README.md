@@ -26,6 +26,7 @@ a un amigo.
 +   # 🧠Mejoras futuras
 +   ⚛️ Botón nuevo juego
 +   ⚛️ Mejoras en la interfaz con CSS
++   ⚛️ Opción para borrar amigo
 +   y demás ideas que se vayan generando...
 
 +   # 📢Contribuciones
