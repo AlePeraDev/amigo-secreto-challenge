@@ -23,6 +23,11 @@ a un amigo.
 +   °Cuando todos los amigos se hayan sorteado, el juego notificará que no
 +   quedan amigos para sortear.
 
++   # 🎮 Vamos a jugar
++   1.-Solo tienes que descargar o clonar el repositorio.
++   2.-Abre el archivo index.html en tu navegador.
++   3.-Disfruta el juego
+
 +   # 🧠Mejoras futuras
 +   ⚛️ Botón nuevo juego
 +   ⚛️ Mejoras en la interfaz con CSS
