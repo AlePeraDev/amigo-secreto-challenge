@@ -3,7 +3,7 @@
 + Se trata de un pequeño juego llamado "Amigo Secreto", implementado en JavaScript,
 + el cual permite a los usuarios agregar nombres a una lista y luego sortear aleatoriamente
 a un amigo. 
-
+![pantalla inicial](assets/cap1.png)
 + ## ☘️   **El Funcionamiento consiste en:**
 +  **1.- Agregar amigos.**
 +   °Escribe un nombre en el campo de entrada y presiona el botón "Agregar Amigos"
